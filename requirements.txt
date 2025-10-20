@@ -1,0 +1,7 @@
+python-dotenv
+requests
+langchain
+langgraph
+google-generativeai
+langchain-google-genai
+typing-extensions
